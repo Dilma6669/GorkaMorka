@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Model_Panel.cs" Line="82" Column="45" />
+      <File FileName="Assets\Scripts\Model.cs" Line="78" Column="11" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="98" Column="37" />
+      <File FileName="Assets\Scripts\Tiles_Layer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Terrain_Layer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Tiles.cs" Line="27" Column="51" />
+      <File FileName="Assets\Scripts\CanvasController.cs" Line="28" Column="3" />
+      <File FileName="Assets\Scripts\All_Buttons.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Trukk.cs" Line="89" Column="19" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="10" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
